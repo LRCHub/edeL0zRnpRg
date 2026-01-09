@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Dang Ding Dong",
+  "base_artist": "sumika",
+  "createdAt": "2026-01-09T00:50:00.592472Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dang Ding Dong (Album Version)",
+      "artist": "The Changcuters",
+      "has_synced": true,
+      "path": "select/01_Dang_Ding_Dong_(Album_Version)_The_Changcuters.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dang Ding Dong",
+      "artist": "The Changcuters",
+      "has_synced": true,
+      "path": "select/02_Dang_Ding_Dong_The_Changcuters.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dang Ding Dong (Album Version)",
+      "artist": "The Changcuters",
+      "has_synced": true,
+      "path": "select/03_Dang_Ding_Dong_(Album_Version)_The_Changcuters.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dang Ding Dong",
+      "artist": "Mala Agatha",
+      "has_synced": true,
+      "path": "select/04_Dang_Ding_Dong_Mala_Agatha.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dang Ding Dong",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/05_Dang_Ding_Dong_sumika.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dang Ding Dong",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/pl_01_Dang_Ding_Dong_sumika.txt"
+    }
+  ]
+}
